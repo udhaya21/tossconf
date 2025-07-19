@@ -149,6 +149,6 @@ jobs:
 
 - Create a new web service
 - Choose existing image from GitHub Container Registry
-- ghcr.io/udhaya21/d3-workshop-react-app:latest
+- ghcr.io/udhaya21/tossconf:latest
 - Choose "Free" plan
 - Deploy

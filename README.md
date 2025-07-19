@@ -8,11 +8,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/udhaya21/d3-workshop.git
+   git clone https://github.com/udhaya21/tossconf.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd d3-workshop/counter-app
+   cd tossconf/counter-app
    ```
 3. **Install dependencies**:
    ```bash
